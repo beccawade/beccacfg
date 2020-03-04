@@ -4,6 +4,7 @@
     list-style: none;
    text-align: center;
    padding: 5px 5px ;
+   font-family: 'Josefin Sans', sans-serif;
   }
 
 .container {
@@ -34,32 +35,36 @@
     color: #c1c1c1;
   }
 .pagetitle{
-    color: coral;
+    color:white;
     text-align: center;
     padding: 20px;
-    background-color: aqua;
+    background-color: grey;
     font-size: 50px;
     margin: 1px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .bodycopy{
     text-align: centre;
     font-size: 15px;
-    color: aqua;
-    background-color: coral;
+    color: white;
+    background-color: rgb(46, 36, 48);
     padding: 50px;
     margin: 1px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .homepagebutton{
     width: 1190px; 
-    border: 5px solid aqua;
+    border: 5px solid black;
     padding: 10px;
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
-    background: coral;
+    background: grey;
     text-align: center;
+    font-style: none;
+    
     
 
 }
@@ -70,5 +75,6 @@
 }
 
 h2{
-    color: aqua;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
 }
