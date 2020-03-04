@@ -1,0 +1,74 @@
+.top {
+    background-color:#595959;
+    color: #ffffff;
+    list-style: none;
+   text-align: center;
+   padding: 5px 5px ;
+  }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .top {
+    background-color:#595959;
+    color: #ffffff;
+    list-style: none;
+   text-align: center;
+   padding: 5px 0 5px 0;
+  }
+  
+  .top > li {
+   display: inline-block;
+   padding-right: 50px;
+  }
+  
+  .top > li > a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .top > li > a:hover {
+    color: #c1c1c1;
+  }
+.pagetitle{
+    color: coral;
+    text-align: center;
+    padding: 20px;
+    background-color: aqua;
+    font-size: 50px;
+    margin: 1px;
+}
+
+.bodycopy{
+    text-align: centre;
+    font-size: 15px;
+    color: aqua;
+    background-color: coral;
+    padding: 50px;
+    margin: 1px;
+}
+
+.homepagebutton{
+    width: 1190px; 
+    border: 5px solid aqua;
+    padding: 10px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: coral;
+    text-align: center;
+    
+
+}
+.homepageimages{
+  flex: 33.33%;
+  padding: 5px;
+  width: 400px;
+}
+
+h2{
+    color: aqua;
+}
